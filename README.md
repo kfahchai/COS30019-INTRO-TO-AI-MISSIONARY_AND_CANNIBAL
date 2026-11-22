@@ -50,7 +50,7 @@ BFS explores level by level, so the **first solution it finds is guaranteed to b
 ## 🚀 Getting started
 
 ```bash
-git clone https://github.com/kfahchai-netizen/COS30019-INTRO-TO-AI-MISSIONARY_AND_CANNIBAL.git
+git clone https://github.com/kfahchai/COS30019-INTRO-TO-AI-MISSIONARY_AND_CANNIBAL.git
 cd COS30019-INTRO-TO-AI-MISSIONARY_AND_CANNIBAL/Missionary_and_Cannibal
 pip install matplotlib
 python standalone_game.py
